@@ -15,7 +15,7 @@ I like systems, small tools, and software that works.
 | [six-systems](https://github.com/IrdiZ/six-systems) | Synthetic hospital data. Shows how much of a handover arrives usable. [Live explainer](https://irdiz.github.io/six-systems/explained.html). | Python, HL7, DICOM, OCR |
 | [cutting-edge-voice-agent](https://github.com/IrdiZ/cutting-edge-voice-agent) | Hands-free voice control for web apps. Speech recognition runs in the browser. Research prototype. | TypeScript, WebGPU, WebAssembly |
 | [albsub](https://github.com/IrdiZ/albsub) | CLI that translates .srt subtitles into Albanian with any LLM. | TypeScript, OpenAI, Anthropic, Ollama |
-| [vibing-with-irdi](https://github.com/IrdiZ/vibing-with-irdi) | Source of my blog. | Astro |
+| [spinlock](https://github.com/IrdiZ/spinlock) | Source of my blog. | Astro |
 | [pgfp](https://github.com/IrdiZ/pgfp) | Smith-Waterman DNA alignment, sequential and parallel, with benchmarks. | Go |
 | [ivp-paper1](https://github.com/IrdiZ/ivp-paper1) | Benchmark of OpenCV StereoSGBM on the Middlebury 2014 stereo dataset. | Python, OpenCV |
 
