@@ -1,7 +1,7 @@
-<img src="header.svg" alt="// spin until free. while (debt > 0) ship();" width="800">
+# Irdi Zeneli
 
-I am Irdi, a CS student in Maastricht. I come from Albania.
-I like systems, small tools, and shipping in public. I build indie products until one wins.
+CS student in Maastricht, from Albania.
+I like systems, small tools, and software that works.
 
 ## Now
 
@@ -21,7 +21,7 @@ I like systems, small tools, and shipping in public. I build indie products unti
 
 ## Writing
 
-[irdizeneli.dev](https://irdizeneli.dev) is my blog. It is being renamed to **spinlock**.
+[irdizeneli.dev](https://irdizeneli.dev) is my blog.
 
 ## Elsewhere
 
