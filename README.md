@@ -1,5 +1,7 @@
 # Irdi Zeneli
 
+📝 blog: [irdizeneli.dev](https://irdizeneli.dev) · ✉️ newsletter: [buttondown.com/irdizeneli](https://buttondown.com/irdizeneli)
+
 CS student in Maastricht, from Albania.
 I like systems, small tools, and software that works.
 
@@ -7,6 +9,11 @@ I like systems, small tools, and software that works.
 
 - **six-systems**: a synthetic hospital that measures how much of a patient file a computer can use. I build it with Danilo.
 - **Legal assistant for Albania**: an AI assistant for lawyers. Albanian first. It handles voice transcripts, scanned pages, sources, and templates. Still building. No public repo yet.
+
+## Latest posts
+
+- [two clip paths walk into a group and never leave: how they crashed the svgator editor](https://irdizeneli.dev/posts/two-clip-paths)
+- [here we are: a cs student, €20k of student debt, and one rule](https://irdizeneli.dev/posts/here-we-are)
 
 ## Projects
 
