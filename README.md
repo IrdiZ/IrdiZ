@@ -12,8 +12,8 @@ I like systems, small tools, and software that works.
 
 ## Latest posts
 
-- [two clip paths walk into a group and never leave: how they crashed the svgator editor](https://irdizeneli.dev/posts/two-clip-paths)
-- [here we are: a cs student, €20k of student debt, and one rule](https://irdizeneli.dev/posts/here-we-are)
+- [two clip paths walk into a group and never leave](https://irdizeneli.dev/posts/two-clip-paths)
+- [here we are](https://irdizeneli.dev/posts/here-we-are)
 
 ## Projects
 
